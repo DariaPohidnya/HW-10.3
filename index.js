@@ -18,7 +18,7 @@ let contactBook = {
     }
 };
 
-console.log(contactBook.findContact("Марія"));
+console.log(contactBook.findContack("Єва"));
 
 console.log(contactBook.addContact({ name: "Іван", phone: "380-000-00-00", email: "ivan@gmail.com" }));
 
